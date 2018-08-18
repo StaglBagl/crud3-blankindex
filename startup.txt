@@ -1,0 +1,5 @@
+cd c:/projects/evs/crud3/backend
+npm run dev
+
+cd c:/projects/evs/crud3/frontend
+ng serve --open
